@@ -1,4 +1,5 @@
 package logarea.demo.dto;
+
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import logarea.demo.model.Status;
 import logarea.demo.model.User;
